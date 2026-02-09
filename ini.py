@@ -5,10 +5,10 @@ class Calculator:
     return a - b
  def multiply(self, a, b):
     return a * b
- def divide(self, aa, bb):
-    return aa / bb
- def modulo(self, a, b):
-    return a % b
+ def divide(self, a, b):
+    return a / b
+ def modulo(self, x, y):
+    return x % y
  def power(self, a, b):
     return a ** b
  
